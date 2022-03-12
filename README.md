@@ -1,5 +1,5 @@
 ## SirWolfi
-Hi I'm uh just a normal guy programming some stuff when he is motivated...
+Hi I'm uh just a normal guy whos programming some stuff when motivated...
 
 ## My "Story"
 So, the first time I got in touch with programming when I decided to learn `Lava`. <br>
