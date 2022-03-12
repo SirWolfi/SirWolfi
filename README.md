@@ -42,7 +42,7 @@ Very simple, but effective!
 
 ### Taml
 ---
-This is actually based of a work I did quickly after DigitalDiscord, yet I stoped working on it for some reason. <br>
+This is actually based of a work I did shortly after DigitalDiscord, yet I stoped working on it for some reason. <br>
 Then a good time later I came back and "finished" it. I added the things I originally planed and more. <br>
 It's a very simple markdown language to design your own Text adventures and ohnestly, I'm very proud about it. <br>
 Back in the days of DigitalDiscord, I failed a lot. Nothing really worked and I was just not skilled enough to fix the bugs. <br>
