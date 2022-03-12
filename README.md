@@ -15,7 +15,7 @@ And to this day, I use C++ on a daily basis. I'm not good I guess but I'm very c
 <br>
 Over the time I learned what object orientet programming, templates, polimorphism, inheritance, namespaces, etc means and how to use it. <br>
 I'm very fascinated in `parsing` and `interpreting`, so C++ is maybe not the best fit, but It gets the job done and I really like it. <br>
-Then I switched to linux (thank god) and I understood more and more what's going on on my computer. <br>
+Then I switched to Manjaro linux (thank god) and I understood more and more what's going on on my computer. <br>
 I also learned `bash` which I use mainly for little tools on my PC. <br>
 <br>
 Oh btw, I use LaTeX to write little stories. (Take that libre office)
