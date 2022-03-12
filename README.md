@@ -17,6 +17,8 @@ Over the time I learned what object orientet programming, templates, polimorphis
 I'm very fascinated in `parsing` and `interpreting`, so C++ is maybe not the best fit, but It gets the job done and I really like it. <br>
 Then I switched to linux (thank god) and I understood more and more what's going on on my computer. <br>
 I also learned `bash` which I use mainly for little tools on my PC. <br>
+<br>
+Oh btw, I use LaTeX to write little stories. (Take that libre office)
 
 ## My Projects
 _All these projects are on github_
