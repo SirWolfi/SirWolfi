@@ -62,9 +62,9 @@ I always try to implement things myself, even if they're in the end worse. <br>
 (No, I don't use boost ;-;)
 
 ## Contacting me
-Well, the best way, would be via discord I guess... <br>
-`SirWolf#2689`
-
+Here you have my public emal: <br>
+sirwolf.stories@gmail.com <br>
+Feel free to contact me if you find bugs or wan't to give me feedback ^^/
 ## Pronouns
 Call me as you wish, I don't mind.
 
